@@ -35,4 +35,3 @@ go test -coverprofile=coverage.txt ./...
 go tool cover -func=coverage.txt
 ```
 
-The coverage profile is written to `grade-calculator/coverage.txt`.
